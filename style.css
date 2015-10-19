@@ -1,0 +1,33 @@
+html {
+  text-align: center;
+  font-family: monospace;
+  background-color: rgb(47, 111, 148);
+  color: rgb(255, 255, 255);
+}
+
+body {
+  background-color: rgb(71, 97, 120);
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 30px;
+}
+h1 h2 {
+  color: rgb(186, 249, 229);
+}
+
+footer {
+  color: rgb(3, 2, 23);
+}
+
+a {
+  color: rgb(252, 146, 58);
+}
